@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Blog",
+  "description": "A sophisticated, high-performance blogging platform with AI-assisted content creation and seamless social sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
